@@ -1,7 +1,7 @@
 # FreeRTOS Task Demo Steps 
 1. Create a New Project 
 2. For this project we use "STM32L476RGT6"
-3. Configure SysTick to use TIM6   <br><b> Here are the settings </b><br> <br> ![NewProj](docs/SYS_Config_Task_Demo.png) <br><br><b> This is what the IOC will look like </b><br> <br> ![NewProj](docs/IOC_Config_View.png) <br>
+3. Configure SysTick to use TIM6    <br> ![NewProj](docs/SYS_Config_Task_Demo.png) <br><b> Here are the settings </b><br><br><b><br> ![NewProj](docs/IOC_Config_View.png) <br>This is what the IOC will look like </b>
 4. Enable FreeRTOS CMSISv2
 5. Add Task 1 and 2
 6. Configure the clock
