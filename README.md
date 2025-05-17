@@ -5,7 +5,7 @@ Ryan Cramer's collection of RTOS projects
 1. Create a myST user --> verify your account
 2. Download the latest version of STMCubeIDE
 3. Login to your myST account in the IDE
-Go to <pre> <b></b> "help" --> STMCube Updates --> Connection to myST and login </pre></b> <br>
+<br>Go to <pre> <b></b> "help" --> STMCube Updates --> Connection to myST and login </pre></b> <br>
 4. Create a New Project
 5. For this project we use "STM32L476RGT6"
 6. Configure SysTick to use TIM6
