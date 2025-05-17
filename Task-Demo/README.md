@@ -1,3 +1,4 @@
+# FreeRTOS Task Demo Steps 
 1. Create a New Project
 2. For this project we use "STM32L476RGT6"
 3. Configure SysTick to use TIM6
