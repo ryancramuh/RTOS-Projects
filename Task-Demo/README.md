@@ -8,7 +8,7 @@
 <br> ![TASK_VIEW](docs/RTOS_Task_Config_View.png) <b><br> Here is the page for adding the tasks <br></b>![TASK1_VIEW](docs/Task1_Config.png) <br> ![TASK_VIEW](docs/Task2_Config.png)
 ### 6. Configure the clock
 ### 7. Update syscall.c
-<br> <font size="12"><b>You will need to manually paste these lines under the includes</b> ![Update1_VIEW](docs/SYSCALL_Update1.png) <br> ![Update2_VIEW](docs/SYSCALL_Update2.png) <br> <b>  and update the __weak__ write to use TMI_Handle(); </b>
+<br> <font size="24"><b>You will need to manually paste these lines under the includes</b> ![Update1_VIEW](docs/SYSCALL_Update1.png) <br> ![Update2_VIEW](docs/SYSCALL_Update2.png) <br> <b>  and update the __weak__ write to use TMI_Handle(); </b>
 ### 8. Update Task1 and Task2 Handlers
 ### 9. Configure Debug Settings
 ### 10. Run Debug -> Resume
