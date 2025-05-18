@@ -37,7 +37,7 @@
 **Updated task handle configuration:**  
 ![configured_VIEW](docs/CONFIG_Task_Handles.png)  
 
-> 🔧 Make sure `Task1Handle` and `Task2Handle` are updated in your `main.c`.
+>  Make sure `Task1Handle` and `Task2Handle` are updated in your `main.c`.
 
 ### 9. Configure Debug Settings (SWV Enabled)  
 ### 10. Run Debug → Click "Resume"  
