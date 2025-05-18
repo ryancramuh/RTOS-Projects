@@ -29,11 +29,9 @@
 
 ### 8. Update `Task1` and `Task2` Handlers  
 
-
-![Update2_VIEW](docs/DEFAULT_Task_Handles.png) 
 **these are the default task handles in  `main.c`**
-
-![Update2_VIEW](docs/CONFIG_Task_Handles.png) 
+![default_VIEW](docs/DEFAULT_Task_Handles.png) 
+![configured_VIEW](docs/CONFIG_Task_Handles.png) 
 **update the task 1 and task 2 handle in  `main.c`**
 
 ### 9. Configure Debug Settings  
