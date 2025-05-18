@@ -28,6 +28,8 @@
 **Then update the `__weak__ write` to use `TMI_SendChar();`**
 
 ### 8. Update `Task1` and `Task2` Handlers  
+**these are the default task handles in <pre> main.c </pre>**
+![Update2_VIEW](docs/SYSCALL_Update2.png) 
 ### 9. Configure Debug Settings  
 ### 10. Run Debug → Resume  
 ### 11. Watch tasks print to SWV ITM Data Console  
