@@ -23,8 +23,10 @@
 ### 7. Update `syscall.c`  
 
 **You will need to manually paste these lines under the includes:**  
+
 ![Update1_VIEW](docs/SYSCALL_Update1.png)  
 ![Update2_VIEW](docs/SYSCALL_Update2.png)  
+
 **Then update the `__weak__ write` to use `TMI_SendChar();`**
 
 ### 8. Update `Task1` and `Task2` Handlers  
