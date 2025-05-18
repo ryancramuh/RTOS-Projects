@@ -28,11 +28,11 @@
 **Then update the `__weak__ write` to use `TMI_SendChar();`**
 
 ### 8. Update `Task1` and `Task2` Handlers  
+
 **these are the default task handles in  `main.c`**
 ![Update2_VIEW](docs/DEFAULT_Task_Handles.png) 
-**update the task 1 and task 2 handle in  `main.c`**
 ![Update2_VIEW](docs/CONFIG_Task_Handles.png) 
-
+**update the task 1 and task 2 handle in  `main.c`**
 
 ### 9. Configure Debug Settings  
 ### 10. Run Debug → Resume  
