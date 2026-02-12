@@ -40,5 +40,9 @@
 >  Make sure `Task1Handle` and `Task2Handle` are updated in your `main.c`.
 
 ### 9. Configure Debug Settings (SWV Enabled)  
+![debug_CONFIG](docs/DEBUGGER_CONFIG.png)
+
 ### 10. Run Debug → Click "Resume"  
-### 11. Observe Output in SWV ITM Data Console  
+![debug_run](docs/Debug_Symbol.png)
+
+### 11. Observe Output in SWV ITM Data Console 
