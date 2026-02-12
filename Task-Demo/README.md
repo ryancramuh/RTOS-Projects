@@ -46,9 +46,9 @@
 ![debug_run](docs/Debug_Symbol.png)
 
 > Configure the trace
-![config_trace](CONFIG_TRACE.png)
+![config_trace](docs/CONFIG_TRACE.png)
 
 > Be sure to use ITM Stimulus port 0
-![use_zero](USER_ZERO)
+![use_zero](docs/USER_ZERO.png)
 
 ### 11. Observe Output in SWV ITM Data Console 
