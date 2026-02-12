@@ -2,6 +2,9 @@
 
 ### 1. Create a New Project  
 ### 2. Use Target MCU: `STM32L476RGT6`  
+> Configure NEWLIB_REENTRANT
+![newlib](docs/NEWLIB_REENT_Config.png)
+
 ### 3. Configure SysTick to Use TIM6  
 
 ![SYSTEM_CONFIG](docs/SYS_Config_Task_Demo.png)  
