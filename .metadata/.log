@@ -1,0 +1,15 @@
+!SESSION 2026-03-23 13:20:32.995 -----------------------------------------------
+eclipse.buildId=Version 2.1.1
+java.version=21.0.9
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-03-23 13:20:46.270
+!MESSAGE Log4j2 initialized with config file /home/rccramer/Desktop/RTOS-Projects/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-03-23 13:20:48.923
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-23 13:22:02.562
+!MESSAGE Indexed 'FreeRTOS_I2C_Scan' (37 sources, 150 headers) in 3.85 sec: 17,133 declarations; 96,723 references; 3 unresolved inclusions; 156 syntax errors; 172 unresolved names (0.15%)
